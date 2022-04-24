@@ -1,0 +1,21 @@
+#clock {
+  position: relative;
+  top: 70px;
+  margin: 0px;
+  font-size: 70px;
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-weight: 400;
+  text-shadow: 2px 2px 2px gray;
+}
+
+#date {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 60px;
+  color: white;
+  text-shadow: 2px 2px 2px grey;
+  font-weight: 300;
+}

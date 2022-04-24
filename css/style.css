@@ -1,0 +1,19 @@
+@import url("login-form.css");
+@import url("background.css");
+@import url("clock&date.css");
+@import url("greeting.css");
+@import url("todo-form.css");
+@import url("quote.css");
+@import url("weather.css");
+
+body {
+  margin: 0px;
+}
+
+* {
+  font-family: "Fredoka", sans-serif;
+}
+
+.hidden {
+  display: none !important;
+}

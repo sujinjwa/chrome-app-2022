@@ -1,0 +1,7 @@
+#quote {
+  position: absolute;
+  top: 690px;
+  color: white;
+  border-radius: 20px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
